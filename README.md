@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM3YTY4bG80cjB1bzgzeDZ3cXhsMDJ4ZmcwbWd4aTg5Z2lnMWVweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/KrasnovDaniil1?theme=nord" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://telegram.me/KrasnovDaniil1">
@@ -19,6 +19,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<div id="header" align="center">
-    <img src="https://leetcard.jacoblin.cool/KrasnovDaniil1?theme=nord" width="500"/>
-</div>
+
