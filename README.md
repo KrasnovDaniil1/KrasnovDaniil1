@@ -20,5 +20,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <div id="header" align="center">
-    <img src="https://leetcard.jacoblin.cool/KrasnovDaniil1?theme=nord" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/kd69931?theme=nord" width="500"/>
 </div>
