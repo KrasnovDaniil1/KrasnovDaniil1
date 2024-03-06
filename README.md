@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://leetcard.jacoblin.cool/KrasnovDaniil1?theme=nord" width="500"/>
+    <img src="https://leetcard.jacoblin.cool/KrasnovDaniil1?theme=nord" width="100%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://telegram.me/KrasnovDaniil1">
